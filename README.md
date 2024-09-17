@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @laizaagatha
-- 👀 I’m interested in tech and arts!
+- 👀 I’m interested in tech and design!
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ux design projects
 - 📫 How to reach me laizadocs.gomes@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I paint!
+- ⚡ Fun fact: I love mathematics and art.
 
 <!---
 laizaagatha/laizaagatha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
